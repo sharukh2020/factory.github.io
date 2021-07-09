@@ -1,0 +1,20 @@
+.about-page-first-section{
+    background-image: url('../../factory/images/about_us_landing_section_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.products-page-first-section{
+    background-image: url('../../factory/images/products_landing_section_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.products-page-second-section{
+    background-image: url('../../factory/images/products_page_first_section_right_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-page-first-section{
+    background-image: url('../../factory/images/contact_page_first_section_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
