@@ -657,7 +657,7 @@ a.button, a.tp-button, button, input[type="submit"], input[type="reset"], input[
 	padding: 40px 0
 }
 #Footer .footer_copy {
-	background: #e6edf1 url(../images/home_factory_footer_bg.png) repeat-x bottom center;
+	/* background: #e6edf1 url(../images/home_factory_footer_bg.png) repeat-x bottom center; */
 	border: 0;
 	padding: 10px 0 20px
 }
