@@ -18,3 +18,43 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.home-page-second-section{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.iso-image{
+    border-radius: 10px;
+}
+.iso-image-about{
+    border-radius: 10px;
+    width: 10%;
+}
+.process-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.process-image{
+    width: 60%;
+}
+@media(max-width:768px){
+    .home-page-second-section{
+        display: flex;
+        flex-direction: column;
+        justify-content:space-around;
+        align-items: center;
+    }
+    .iso-image{
+        border-radius: 10px;
+        width: 35%;
+        margin-top: 30px;
+    }
+    .iso-image-about{
+        border-radius: 10px;
+        width: 35%;
+    }
+    .process-image{
+        width: 100%;
+    }
+}
